@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "simplysnow",
+  "version": "${version}",
+  "name": "Simply Snow 只是雪",
+  "description": "一个更改了雪的行为的模组",
+  "authors": [
+    "iung"
+  ],
+  "contact": {
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/icon/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.iung.simplySnow.Main"
+    ]
+  },
+  "mixins": [
+    "SimplySnowMixin.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14",
+    "fabric": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

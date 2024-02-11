@@ -1,0 +1,14 @@
+{
+  "gamerule.simplySnow_snowOnIce": "在冰上下雪",
+  "gamerule.simplySnow_snowOnDirtPath": "在草径上下雪",
+  "gamerule.simplySnow_snowMeltChancePercent": "所有雪自然融化的概率（百分数）",
+  "gamerule.simplySnow_minMeltLightLevel": "雪自然融化所需的光照强度",
+  "gamerule.simplySnow_snowMeltChanceWarmBiomePercent": "温暖群系中部雪融化的概率（百分数）",
+  "gamerule.simplySnow_snowMeltChanceIndoorPercent": "室内雪融化的概率（百分数）",
+  "gamerule.simplySnow_minMeltLightLevelIndoor": "雪在室内融化所需的光照强度",
+  "gamerule.simplySnow_spreadDown": "雪向下传播最大距离",
+
+  "gamerule.simplySnow_snowInEveryBiome": "在所有群系内都会下雪",
+  "gamerule.simplySnow_snowChancePercent": "下雪的成功率（百分数）",
+  "gamerule.simplySnow_maxSnowLightLevel": "会下雪的最大光照强度"
+}
