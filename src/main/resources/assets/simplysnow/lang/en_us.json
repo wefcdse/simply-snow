@@ -1,0 +1,14 @@
+{
+  "gamerule.simplySnow_snowOnIce": "snow on ice",
+  "gamerule.simplySnow_snowOnDirtPath": "snow on dirt path",
+  "gamerule.simplySnow_snowMeltChancePercent": "snow's chance to melt in percentage",
+  "gamerule.simplySnow_minMeltLightLevel": "minimum light level for snow to melt",
+  "gamerule.simplySnow_snowMeltChanceWarmBiomePercent": "snow's chance to melt in warm biomes in percentage",
+  "gamerule.simplySnow_snowMeltChanceIndoorPercent": "snow's chance to melt indoor in percentage",
+  "gamerule.simplySnow_minMeltLightLevelIndoor": "minimum light level for snow to melt indoor",
+  "gamerule.simplySnow_spreadDown": "maximum distance for snow to spread downward",
+
+  "gamerule.simplySnow_snowInEveryBiome": "snow in every biomes",
+  "gamerule.simplySnow_snowChancePercent": "chance for snow in percentage",
+  "gamerule.simplySnow_maxSnowLightLevel": "maximum light level to snow"
+}
